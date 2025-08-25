@@ -202,8 +202,12 @@ p{
   font-size: medium;       
      /* Adds spacing */
   outline: none;  
-  font-weight: bold;       /* Removes focus border */
+        /* Removes focus border */
   margin-bottom: 2px;
   background-color: transparent;
   padding-top: 0;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.custom:hover{
+    color: brown;
 }
