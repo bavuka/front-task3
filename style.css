@@ -194,6 +194,16 @@ p{
     height: 100%;
     background-image: url(./images/pexels-hadislash-3887990.jpg);
     background-size: cover;
-    mg: 0;
+
     
+}
+.custom{
+  border: none;         
+  font-size: medium;       
+     /* Adds spacing */
+  outline: none;  
+  font-weight: bold;       /* Removes focus border */
+  margin-bottom: 2px;
+  background-color: transparent;
+  padding-top: 0;
 }
